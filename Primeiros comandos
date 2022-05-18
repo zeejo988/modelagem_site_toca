@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset=""uft-8">
+        <title>Lanchonete A Toca do Buda</title>
+    </head>
+    <body>
+    <header><img src=”minion.png” alt=”toca logo” width=300 height=200><h1>
+        Lanchonete A Toca do Buda - Lanches e Refeições
+    </header></h1>
+    <section>
+        <header><h2>
+        Lanches
+        Cervejas
+        Refrigerantes
+        Refeições
+        </header></h2>
+    </section>
+        <article>   
+        <header><h3>
+        Doces - Salgados - carnes
+        
+        </header></h3>
+    </article>
+
+        <article><header><h3>
+            Venham conferir varios tipos de bebidas
+        </h3></header>
+    </article>
+        <p>
+       Lorem Ipsum is simply dummy text of the printing and typesetting 
+       industry. Lorem Ipsum <a href="mailto:linkedin.com" target="_blank"><linkedin class="com"><a href="mailto:lucas@vilaboim.com" target="_blank">linkedin jose salvador</linkedin></a>
+       has been the industry's standard dummy text ever since the 1500s 
+       <a href="mailto:zeejo88@live.com" target="_blank">zeejo88@live.com</a>
+       </p>
+        <footer>
+            Fechamos as 21:00 - Obrigado pela Preferencia
+            <ul>
+                <il>
+                    <a href="mailto:lucas@vilaboim.com" target="_blank">lucas@vilaboim.com</a>
+
+
+                </il>
+            </ul>
+        </footer>
+    </body>
+   </html>
