@@ -5,39 +5,36 @@
         <title>Lanchonete A Toca do Buda</title>
     </head>
     <body>
-    <header><img src=”minion.png” alt=”toca logo” width=300 height=200><h1>
-        Lanchonete A Toca do Buda - Lanches e Refeições
-    </header></h1>
+        <header>
+         <img src=”toca_log.jpg” alt=”toca_logo”>
+         <h1>Lanchonete A Toca do Buda - Lanches e Refeições</h1>
+        </header>
     <section>
-        <header><h2>
-        Lanches
-        Cervejas
-        Refrigerantes
-        Refeições
-        </header></h2>
+        <header>
+        <h2>Lanches - Cervejas - Refrigerantes - Refeições</h2>
+        </header>
     </section>
         <article>   
-        <header><h3>
-        Doces - Salgados - carnes
-        
-        </header></h3>
+        <header>
+        <h3>post #1 - Doces - Salgados </h3>
+        </header>
     </article>
 
-        <article><header><h3>
-            Venham conferir varios tipos de bebidas
-        </h3></header>
+        <article>
+        <header>
+        <h3>Venham conferir varios tipos de bebidas</h3>
+        </header>
     </article>
         <p>
-       Lorem Ipsum is simply dummy text of the printing and typesetting 
-       industry. Lorem Ipsum <a href="mailto:linkedin.com" target="_blank"><linkedin class="com"><a href="mailto:lucas@vilaboim.com" target="_blank">linkedin jose salvador</linkedin></a>
-       has been the industry's standard dummy text ever since the 1500s 
-       <a href="mailto:zeejo88@live.com" target="_blank">zeejo88@live.com</a>
+       Lorem Ipsum <a href="https://www.linkedin.com"target="_blank"> linkedin0 </a> simply dummy text of the printing and typesetting 
+       industry. Lorem Ipsum <a href="https://www.linkedin.com" target="_blank">linkedin </a>wonderfull world for uns live the better way<a href="mailto:zeejo88@gmail.com" target="_blank">email jose salvador</linkedin></a>
+       has been the industry's standard dummy text ever since the 1500s <a href="mailto:zeejo88@live.com" target="_blank">zeejo88@live.com</a>
        </p>
         <footer>
             Fechamos as 21:00 - Obrigado pela Preferencia
             <ul>
                 <il>
-                    <a href="mailto:lucas@vilaboim.com" target="_blank">lucas@vilaboim.com</a>
+                    <a href="mailto:linkedin.com" target="_blank">joseneto.com</a>
 
 
                 </il>
